@@ -1,2 +1,2 @@
 # My first git project
-# Readmi message
+# Readme message
